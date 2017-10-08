@@ -1,9 +1,21 @@
 # Work in Progress
-## express_login
-A simple passport based OAuth with Express and NodeJS.
-<<<<<<< HEAD
-=======
+##$ express_login
+A simple passportJS based OAuth with Express and NodeJS.
+
+Auth for : 
+
+Facebook
+
+Github
+
+Google
+
+Twitter
+
+Go to Auth Folder and Enter Clint Secret keys for the Services you want to you.
+
+`$ npm i`
+`$ npm start`
 
 
-## WIP
->>>>>>> dc49b0fa6f036d742629799c66485c04906668f5
+Visit localhost:3000
