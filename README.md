@@ -1,4 +1,4 @@
-## express_login
+## express-login
 A simple passportJS based OAuth with Express and NodeJS.
 
 #### Auth for : 
